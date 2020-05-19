@@ -1,4 +1,5 @@
 #include<iostream>
+#include<bits/cstd.h>
 using namespace std;
 int main(){
     int age;
