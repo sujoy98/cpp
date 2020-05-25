@@ -1,3 +1,8 @@
+/*
+Getter and Setter allows us to efficiently protect our data, there two types mainly
+used in Classes i.e in making Private and Public type inside classes.
+*/
+
 #include<iostream>
 using namespace std;
 class Movie{
