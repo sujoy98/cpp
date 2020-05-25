@@ -6,7 +6,7 @@ used in Classes i.e in making Private and Public type inside classes.
 #include<iostream>
 using namespace std;
 class Movie{
-    public:
+    private:
         string rating;
     public:
         string title;
